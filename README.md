@@ -11,4 +11,6 @@
 
 ##화면 설계
 * 게임 화면의 view를 카카오 오븐으로 설계   
-[설계 링크](https://ovenapp.io/project/ndRmIWkqdtd57wyIfoSNuEC4tNwBLpDf#gmc6d)
+[설계 링크](https://ovenapp.io/project/ndRmIWkqdtd57wyIfoSNuEC4tNwBLpDf#gmc6d)   
+<img src=url("https://drive.google.com/file/d/18CfjyerhTpczN0NDjCbHH6_apmtlRxLI/view?usp=sharing") width="40%" height="30%" alt="main"></img>
+
